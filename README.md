@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hackathon winner at Stanford TreeHacks, LA Hacks, UWisconsin BadgerHacks, and more
+:D
 
 <!--
 **Anan1218/Anan1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
